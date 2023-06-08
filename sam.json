@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "sdfg",
+      "title": "efg",
+      "body": "ewrtgy"
+    },
+    {
+      "author": "sdfg",
+      "title": "efg",
+      "body": "ewrtgy",
+      "id": 2
+    },
+    {
+      "author": "sdfg",
+      "title": "efg",
+      "body": "ewrtgy",
+      "id": 3
+    },
+    {
+      "author": "sdfg",
+      "title": "efg",
+      "body": "ewrtgy",
+      "id": 4
+    },
+    {
+      "author": "",
+      "title": "",
+      "body": "",
+      "id": 5
+    },
+    {
+      "author": "trjkl;",
+      "title": "uiwe0r9hoik",
+      "body": "asfdy78ewuik",
+      "id": 6
+    }
+  ]
+}
